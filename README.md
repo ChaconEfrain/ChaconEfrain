@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there 👋. I'm a full stack web developer seeking to become a great software engineer and to learn from experienced colleagues.
 
-<!--
-**ChaconEfrain/ChaconEfrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Tech stack:
 
-Here are some ideas to get you started:
+## Front end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Javascript
+* Typescript
+* React.js
+* Redux
+* HTML
+* CSS
+
+## Back end
+
+* Javascript
+* Typescript
+* Express
+* PostgreSQL
+* Sequelize
+
+# Soft skills:
+
+- 🧠 I'm a teachable person.
+- ⌛ I'm efficient.
+- 👨‍🏫 Leadership.
+- 🤝 Team player.
+
+### Contact me at (efrachaga@gmail.com)
