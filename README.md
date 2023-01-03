@@ -26,4 +26,4 @@
 - 👨‍🏫 Leadership.
 - 🤝 Team player.
 
-### Contact me at (efrachaga@gmail.com)
+### Contact me at efrachaga@gmail.com
